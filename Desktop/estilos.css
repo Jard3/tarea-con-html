@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(rgba(156, 244, 226, 0.1),
+    rgba(180,250,190,0.1));
+}
+.sombreado{
+    background-color: rgba(182, 179, 179, 0.751);
+    font-style: oblique;
+    padding: 10px;
+}
+.Autos{
+    background-color: rgba(182, 219, 255, 0.442);
+    margin-right: 80%;
+}
+.Autos:hover{
+    background-color: blue;
+}
+
+section{
+    display: flex;
+}
+a{
+    background-color: rgba(169, 169, 169, 0.536);
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+    margin-right: 95%;
+    margin-top: 5px;
+    
+    padding: 1px 10px;
+    
+}
+a:hover{
+    background-color: rgb(100, 93, 143);
+}
+a:active{
+    background-color: blue;
+}
+img{margin-left:  300px;
+    margin-top: 1 px;
+    width: 350px;
+    display: flex;
+}
